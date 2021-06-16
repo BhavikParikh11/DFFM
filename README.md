@@ -2,10 +2,6 @@
 
 [![Python Versions](https://img.shields.io/pypi/pyversions/deepctr.svg)](https://pypi.org/project/deepctr)
 [![TensorFlow Versions](https://img.shields.io/badge/TensorFlow-1.4+/2.0+-blue.svg)](https://pypi.org/project/deepctr)
-[![Downloads](https://pepy.tech/badge/deepctr)](https://pepy.tech/project/deepctr)
-[![PyPI Version](https://img.shields.io/pypi/v/deepctr.svg)](https://pypi.org/project/deepctr)
-[![GitHub Issues](https://img.shields.io/github/issues/shenweichen/deepctr.svg
-)](https://github.com/shenweichen/deepctr/issues)
 <!-- [![Activity](https://img.shields.io/github/last-commit/shenweichen/deepctr.svg)](https://github.com/shenweichen/DeepCTR/commits/master) -->
 
 
