@@ -59,65 +59,6 @@ Let's [**Get Started!**](https://deepctr-doc.readthedocs.io/en/latest/Quick-Star
 |                DCN V2                    | [arxiv 2020][DCN V2: Improved Deep & Cross Network and Practical Lessons for Web-scale Learning to Rank Systems](https://arxiv.org/abs/2008.13535)   |
 |                DIFM                 | [IJCAI 2020][A Dual Input-aware Factorization Machine for CTR Prediction](https://www.ijcai.org/Proceedings/2020/0434.pdf)   |
 |   FEFM and DeepFEFM                    | [arxiv 2020][Field-Embedded Factorization Machines for Click-through rate prediction](https://arxiv.org/abs/2009.09931)                                         |
-
-## Citation
-
-- Weichen Shen. (2017). DeepCTR: Easy-to-use,Modular and Extendible package of deep-learning based CTR models. https://github.com/shenweichen/deepctr.
-
-
-If you find this code useful in your research, please cite it using the following BibTeX:
-
-```bibtex
-@misc{shen2017deepctr,
-  author = {Weichen Shen},
-  title = {DeepCTR: Easy-to-use,Modular and Extendible package of deep-learning based CTR models},
-  year = {2017},
-  publisher = {GitHub},
-  journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/shenweichen/deepctr}},
-}
-```
-
-## DisscussionGroup
-
-- [Discussions](https://github.com/shenweichen/DeepCTR/discussions)
-- 公众号：**浅梦学习笔记**  
-- wechat ID: **deepctrbot**
-
-  ![wechat](./docs/pics/code.png)
-  
-
-## Main contributors([welcome to join us!](./CONTRIBUTING.md))
-
-<table border="0">
-  <tbody>
-    <tr align="center" >
-      <td>
-        ​ <a href="https://github.com/shenweichen"><img width="70" height="70" src="https://github.com/shenweichen.png?s=40" alt="pic"></a><br>
-        ​ <a href="https://github.com/shenweichen">Shen Weichen</a> ​
-        <p>
-        Alibaba Group  </p>​
-      </td>
-      <td>
-         <a href="https://github.com/zanshuxun"><img width="70" height="70" src="https://github.com/zanshuxun.png?s=40" alt="pic"></a><br>
-         <a href="https://github.com/zanshuxun">Zan Shuxun</a> ​
-        <p>Beijing University <br> of  Posts and <br> Telecommunications  </p>​
-      </td>
-      <td>
-        ​ <a href="https://github.com/pandeconscious"><img width="70" height="70" src="https://github.com/pandeconscious.png?s=40" alt="pic"></a><br>
-        ​ <a href="https://github.com/pandeconscious">Harshit Pande</a>
-        <p> Amazon   </p>​
-      </td>
-      <td>
-        ​ <a href="https://github.com/codewithzichao"><img width="70" height="70" src="https://github.com/codewithzichao.png?s=40" alt="pic"></a><br>
-        ​ <a href="https://github.com/codewithzichao">Li Zichao</a>
-        <p> Peking University   </p>​
-      </td>
-      <td>
-        ​ <a href="https://github.com/TanTingyi"><img width="70" height="70" src="https://github.com/TanTingyi.png?s=40" alt="pic"></a><br>
-         <a href="https://github.com/TanTingyi">Tan Tingyi</a>
-         <p>  Chongqing University <br> of  Posts and <br> Telecommunications   </p>​
-      </td>
     </tr>
   </tbody>
 </table>
